@@ -1,0 +1,37 @@
+/*
+Here are some Halloween themed color codes that you can use:
+- Orange: #ED7D31
+- Grey/Brown: #6C5F5B
+- Purple: #451952
+- Sunset-Orange: #F39F5A
+- Deep-Blue: #0E21A0
+- Blood-Red: #CD1818
+- Yellow: #FFEE63
+- Pink: #FE7BE5
+*/
+
+body {
+    background-color: black;
+    margin: auto;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
+
+.center {
+    margin: auto;
+    padding-top: 10%;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+.heading {
+    color: #ED7D31;
+    font-size: 50px;
+}
+
+
+

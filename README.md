@@ -38,7 +38,7 @@ Use CSS properties like text-align, padding, margin, and justify contents to for
 
 
 ### Defining CSS styles
-Remember, use #example selector for referencing id's, .example for referencing classes, and example for html components (no special character needed). 
+Remember, use `#example` selector for referencing id's, `.example` for referencing classes, and `example` for html components (no special character needed). 
 
 Syntax example:
 

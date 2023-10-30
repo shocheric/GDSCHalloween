@@ -7,7 +7,7 @@ Your task is to use the tools given to you to build a webpage of your own creati
 
 ## Getting Started
 To clone the repository from github to your local machines, run the terminal command:
-    git clone https://github.com/shocheric/GDSCHalloween.git
+    `git clone https://github.com/shocheric/GDSCHalloween.git`
 
 To get your webpage to display in your browser, double click on your index.html file and click "copy path", then paste it into your address bar.
 
